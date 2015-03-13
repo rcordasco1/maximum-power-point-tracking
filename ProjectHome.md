@@ -1,0 +1,1 @@
+Maximum Power Point Tracking was used to implement a SIMULINK system for a solar cell to track the sun through the day to get maximum power generated.
